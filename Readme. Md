@@ -1,0 +1,25 @@
+# Habit House
+
+Habit House is an AI-powered life operating system that automates personal growth.
+
+## Vision
+To remove friction from self-improvement by turning habits, goals, and routines into an intelligent automated system.
+
+## Core Idea
+Users don’t manually track life anymore. AI handles it.
+
+## MVP Features
+- AI onboarding
+- Daily habit dashboard
+- Smart habit tracking
+- AI coaching system
+- Weekly performance review
+
+## Tech Direction
+- Frontend: FlutterFlow (mobile app)
+- Backend: Firebase
+- AI: OpenAI API
+- Analytics: Firebase Analytics
+
+## Long Term Vision
+A personal AI assistant that manages health, productivity, learning, and goals automatically.
