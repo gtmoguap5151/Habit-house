@@ -1,0 +1,80 @@
+# Habit House PRD (Product Requirements Document)
+
+## 1. Product Summary
+Habit House is an AI-powered life operating system that automates habit building, daily planning, and personal growth.
+
+Users do not manually track everything. The AI observes, predicts, and guides behavior.
+
+---
+
+## 2. Core Problem
+Most habit apps fail because they require too much manual input and discipline.
+
+Users forget, lose motivation, and stop using them.
+
+---
+
+## 3. Solution
+An AI-first system that:
+- Learns user routines
+- Suggests daily actions automatically
+- Reduces manual tracking
+- Adapts in real time
+
+---
+
+## 4. Core Features (MVP)
+
+### 4.1 AI Onboarding
+- Ask user goals
+- Ask schedule
+- Ask habits they want
+- Auto-build initial plan
+
+### 4.2 Daily AI Plan
+- One simple daily screen
+- 3–7 recommended actions
+- Auto-adjusted based on behavior
+
+### 4.3 Habit Engine
+- Create habits
+- Track completion
+- Auto-detect consistency patterns
+
+### 4.4 AI Coach
+- Daily feedback
+- Motivation nudges
+- Course correction
+
+### 4.5 Weekly Review
+- Performance summary
+- Habit success rate
+- Suggestions for next week
+
+---
+
+## 5. AI Behavior Rules
+- Never overwhelm user
+- Always suggest small steps
+- Adapt difficulty automatically
+- Prioritize consistency over intensity
+
+---
+
+## 6. Monetization
+- Free tier: basic habits + tracking
+- Premium tier: AI coaching + deep insights
+- Future: affiliate + rewards ecosystem
+
+---
+
+## 7. Tech Stack (initial)
+- FlutterFlow (mobile app)
+- Firebase (backend)
+- OpenAI API (AI engine)
+- Firebase Analytics (tracking)
+
+---
+
+## 8. Long-Term Vision
+Habit House becomes a personal AI operating system that manages health, productivity, learning, and goals automatically.
